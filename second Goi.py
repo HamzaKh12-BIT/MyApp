@@ -1,1 +1,1 @@
-print("Ecole Eliec Prive")
+print("Ecole Eliec ")
